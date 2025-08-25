@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Paperless.Api/Paperless.Api.csproj" />
+  <Project Path="Paperless.Application/Paperless.Application.csproj" />
+  <Project Path="Paperless.Domain/Paperless.Domain.csproj" />
+  <Project Path="Paperless.Infrastructure/Paperless.Infrastructure.csproj" />
+</Solution>
